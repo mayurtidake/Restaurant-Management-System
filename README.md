@@ -1,6 +1,6 @@
 Restaurant Management System
 
-Overview :- 
+Overview :-
 The Restaurant Management System (RMS) is a Java-based application designed to automate various aspects of restaurant management, including order-taking, inventory management, and employee scheduling. The system aims to improve efficiency, reduce costs, and enhance customer experience.
 
 Features :- 
@@ -17,13 +17,13 @@ Technologies Used :-
 4. MySQL
 
 Screenshots :-
-1. Registration page
+1. Registration page 
 ![image](https://github.com/user-attachments/assets/641ccc48-c2c1-4969-87ae-bae636780461)
 
-2. Home page
+2. Home page 
 ![image](https://github.com/user-attachments/assets/84b2461e-3b4a-4816-86f6-901de9f2b52e)
 
-3. Order page
+3. Order page 
 ![image](https://github.com/user-attachments/assets/3a7a8b7f-ab05-426b-a579-1e632ab67d34)
 
 Conclusion :- 
